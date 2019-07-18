@@ -7,5 +7,4 @@
 7. Create stat search function
 8. Create display search results function
 9. Create function to allow multiple searches, ability to quit 
-10. 
-11. Test the code
+10. Test the code

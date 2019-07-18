@@ -9,3 +9,4 @@
 9. Create function to allow multiple searches, ability to quit - Sean
 10. Test the code - Nate
 11. Create the powerpoint slide - Sean
+12. Create main code document - Nate DONE
